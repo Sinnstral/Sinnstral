@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-  Hi, I'm Iram Díaz
+  Hi, I'm Iram Diaz
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 </h1>
   
@@ -9,7 +9,7 @@
 </h3>
   
 - 🔭 I’m currently working on a MVP for a startup and a robot arm that organizes my electronic components.
-- 🌱 I’m currently learning Google Cloud Platform, GraphQL.
+- 🌱 I’m currently learning Google Cloud Platform, gRPC.
 - 👯 I’m looking to collaborate on an open source hardware project.
 
 ```go
