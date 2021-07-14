@@ -1,16 +1,6 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-  Hi, I'm Iram Diaz
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-</h1>
-  
 <h3 align="center">
-  A backend developer and hardware hobbyist from México.
+  Hi, I'm Iram Diaz a machine learning enthusiast and hardware hobbyist from Mexico.
 </h3>
-  
-- 🔭 I’m currently working on a MVP for a startup and a robot arm that organizes my electronic components.
-- 🌱 I’m currently learning Google Cloud Platform, gRPC.
-- 👯 I’m looking to collaborate on an open source hardware project.
 
 ```go
 package main
@@ -22,13 +12,15 @@ type dev struct {
 	Name     string
 	Web      string
 	Twitter  string
+    code []
 }
 
-type code struct {
-	Frontend []string
+type code[] struct {
+	AI []string
 	Backend  []string
 	Database []string
 	Devops   []string
+    Frontend: []string
 	Hardware []string
 	Tools    []string
 	Misc     []string
@@ -42,12 +34,14 @@ func main() {
 		Twitter:  "@sinnstral",
 	}
 	skills := code{
-		Frontend: []string{"CSS", "HTML", "Flutter"},
-		Backend:  []string{"C/C++", "Go", "Python"},
+        AI:  []string{"TensorFlow", "Fasthttp"},
+		Backend:  []string{"Go", "Fasthttp"},
 		Database: []string{"BadgerDB"},
 		Devops:   []string{"Docker", "GitHub Actions"},
+        Frontend: []string{"CSS", "HTML"},
 		Hardware: []string{"Arduino", "AVR", "ESP32"},
 		Tools:    []string{"Git", "GitHub"},
+        Learning: []string{"Data Oriented Design", "gonum"}
 		Misc:     []string{"GNU/Linux", "XP"},
 	}
 	fmt.Println(skills)
