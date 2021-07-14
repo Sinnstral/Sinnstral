@@ -20,7 +20,7 @@ type code[] struct {
 	Backend  []string
 	Database []string
 	Devops   []string
-    Frontend: []string
+    	Frontend: []string
 	Hardware []string
 	Tools    []string
 	Misc     []string
@@ -34,14 +34,14 @@ func main() {
 		Twitter:  "@sinnstral",
 	}
 	skills := code{
-        AI:  []string{"TensorFlow", "Fasthttp"},
+        	AI:  []string{"TensorFlow", "Fasthttp"},
 		Backend:  []string{"Go", "Fasthttp"},
 		Database: []string{"BadgerDB"},
 		Devops:   []string{"Docker", "GitHub Actions"},
-        Frontend: []string{"CSS", "HTML"},
+        	Frontend: []string{"CSS", "HTML"},
 		Hardware: []string{"Arduino", "AVR", "ESP32"},
 		Tools:    []string{"Git", "GitHub"},
-        Learning: []string{"Data Oriented Design", "gonum"}
+        	Learning: []string{"Data Oriented Design", "gonum"}
 		Misc:     []string{"GNU/Linux", "XP"},
 	}
 	fmt.Println(skills)
