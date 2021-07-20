@@ -1,6 +1,8 @@
-<h3 align="center">
+<h2 align="center">
+	<img src="https://github.com/sinnstral/coffe.gif" width="30" />
   Hi, I'm Iram Diaz a machine learning enthusiast and hardware hobbyist from Mexico.
-</h3>
+	<img src="https://github.com/sinnstral/coffe.gif" width="30" />
+</h2>
 
 ```go
 package main
