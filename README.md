@@ -1,7 +1,7 @@
 <h2 align="center">
-	<img src="https://raw.githubusercontent.com/sinnstral/sinnstral/master/gopher.gif" width="30px">
+	<img src="https://raw.githubusercontent.com/sinnstral/sinnstral/master/gopher.gif" width="50px">
   Hi, I'm Iram Diaz a machine learning enthusiast and hardware hobbyist from Mexico.
-	<img src="https://raw.githubusercontent.com/sinnstral/sinnstral/master/gopher.gif" width="30px">
+	<img src="https://raw.githubusercontent.com/sinnstral/sinnstral/master/gopher.gif" width="50px">
 </h2>
 
 ```go
